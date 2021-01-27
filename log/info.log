@@ -1,0 +1,1666 @@
+[2020-12-04 09:12:42] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 09:12:42] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 09:12:42] [INFO]  execute cmd  start ,cmd : which git
+[2020-12-04 09:12:42] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/bin/git
+[2020-12-04 09:12:42] [INFO]  execute cmd  start ,cmd : which openssl
+[2020-12-04 09:12:42] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2020-12-04 09:12:42] [INFO]  execute cmd  start ,cmd : which curl
+[2020-12-04 09:12:42] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2020-12-04 09:12:42] [INFO]  execute cmd  start ,cmd : which wget
+[2020-12-04 09:12:42] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/bin/wget
+[2020-12-04 09:12:42] [INFO]  execute cmd  start ,cmd : which nginx
+[2020-12-04 09:12:42] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2020-12-04 09:12:42] [INFO]  execute cmd  start ,cmd : java -version
+[2020-12-04 09:12:42] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: openjdk version "11.0.9.1" 2020-11-04
+OpenJDK Runtime Environment (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04)
+OpenJDK 64-Bit Server VM (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+[2020-12-04 09:12:42] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2020-12-04 09:12:42] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: 
+[2020-12-04 10:25:28] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:25:28] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:25:28] [INFO]  execute cmd  start ,cmd : which git
+[2020-12-04 10:25:28] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /bin/git
+[2020-12-04 10:25:28] [INFO]  execute cmd  start ,cmd : which openssl
+[2020-12-04 10:25:28] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /bin/openssl
+[2020-12-04 10:25:28] [INFO]  execute cmd  start ,cmd : which curl
+[2020-12-04 10:25:28] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /bin/curl
+[2020-12-04 10:25:28] [INFO]  execute cmd  start ,cmd : which wget
+[2020-12-04 10:25:28] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /bin/wget
+[2020-12-04 10:25:28] [INFO]  execute cmd  start ,cmd : which docker
+[2020-12-04 10:25:28] [INFO]  execute cmd  end ,cmd : which docker,status :1 , output: 
+[2020-12-04 10:25:28] [INFO]  execute cmd  start ,cmd : curl -s -L get.docker.com | bash
+[2020-12-04 10:25:55] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:25:55] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:25:55] [INFO]  execute cmd  start ,cmd : which git
+[2020-12-04 10:25:55] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /bin/git
+[2020-12-04 10:25:55] [INFO]  execute cmd  start ,cmd : which openssl
+[2020-12-04 10:25:55] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /bin/openssl
+[2020-12-04 10:25:55] [INFO]  execute cmd  start ,cmd : which curl
+[2020-12-04 10:25:55] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /bin/curl
+[2020-12-04 10:25:55] [INFO]  execute cmd  start ,cmd : which wget
+[2020-12-04 10:25:55] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /bin/wget
+[2020-12-04 10:25:55] [INFO]  execute cmd  start ,cmd : which docker
+[2020-12-04 10:25:55] [INFO]  execute cmd  end ,cmd : which docker,status :1 , output: 
+[2020-12-04 10:25:55] [INFO]  execute cmd  start ,cmd : curl -s -L get.docker.com | bash
+[2020-12-04 10:25:59] [INFO]  execute cmd  end ,cmd : curl -s -L get.docker.com | bash,status :100 , output: # Executing docker install script, commit: 26ff363bcf3b3f5a00498ac43694bf1c7d9ce16c
++ sudo -E sh -c 'apt-get update -qq >/dev/null'
+E: 无法获得锁 /var/lib/apt/lists/lock。锁正由进程 21111（apt-get）持有
+E: 无法对目录 /var/lib/apt/lists/ 加锁
+[2020-12-04 10:27:11] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:27:11] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:27:11] [INFO]  execute cmd  start ,cmd : which git
+[2020-12-04 10:27:11] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/bin/git
+[2020-12-04 10:27:11] [INFO]  execute cmd  start ,cmd : which openssl
+[2020-12-04 10:27:11] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2020-12-04 10:27:11] [INFO]  execute cmd  start ,cmd : which curl
+[2020-12-04 10:27:11] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2020-12-04 10:27:11] [INFO]  execute cmd  start ,cmd : which wget
+[2020-12-04 10:27:11] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/bin/wget
+[2020-12-04 10:27:11] [INFO]  execute cmd  start ,cmd : which docker
+[2020-12-04 10:27:11] [INFO]  execute cmd  end ,cmd : which docker,status :1 , output: 
+[2020-12-04 10:27:11] [INFO]  execute cmd  start ,cmd : curl -s -L get.docker.com | bash
+[2020-12-04 10:27:19] [INFO]  execute cmd  end ,cmd : curl -s -L get.docker.com | bash,status :100 , output: # Executing docker install script, commit: 26ff363bcf3b3f5a00498ac43694bf1c7d9ce16c
++ sudo -E sh -c 'apt-get update -qq >/dev/null'
+E: 无法获得锁 /var/lib/apt/lists/lock。锁正由进程 21111（apt-get）持有
+E: 无法对目录 /var/lib/apt/lists/ 加锁
+[2020-12-04 10:29:00] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:29:00] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:29:00] [INFO]  execute cmd  start ,cmd : which git
+[2020-12-04 10:29:00] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/bin/git
+[2020-12-04 10:29:00] [INFO]  execute cmd  start ,cmd : which openssl
+[2020-12-04 10:29:00] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2020-12-04 10:29:00] [INFO]  execute cmd  start ,cmd : which curl
+[2020-12-04 10:29:00] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2020-12-04 10:29:00] [INFO]  execute cmd  start ,cmd : which wget
+[2020-12-04 10:29:00] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/bin/wget
+[2020-12-04 10:29:00] [INFO]  execute cmd  start ,cmd : which docker
+[2020-12-04 10:29:00] [INFO]  execute cmd  end ,cmd : which docker,status :1 , output: 
+[2020-12-04 10:29:00] [INFO]  execute cmd  start ,cmd : curl -s -L get.docker.com | bash
+[2020-12-04 10:29:26] [INFO]  execute cmd  end ,cmd : curl -s -L get.docker.com | bash,status :100 , output: # Executing docker install script, commit: 26ff363bcf3b3f5a00498ac43694bf1c7d9ce16c
++ sudo -E sh -c 'apt-get update -qq >/dev/null'
+E: 仓库 “http://ppa.launchpad.net/webupd8team/java/ubuntu focal Release” 没有 Release 文件。
+[2020-12-04 10:30:03] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:30:03] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:30:03] [INFO]  execute cmd  start ,cmd : which git
+[2020-12-04 10:30:03] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/bin/git
+[2020-12-04 10:30:03] [INFO]  execute cmd  start ,cmd : which openssl
+[2020-12-04 10:30:03] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2020-12-04 10:30:03] [INFO]  execute cmd  start ,cmd : which curl
+[2020-12-04 10:30:03] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2020-12-04 10:30:03] [INFO]  execute cmd  start ,cmd : which wget
+[2020-12-04 10:30:03] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/bin/wget
+[2020-12-04 10:30:03] [INFO]  execute cmd  start ,cmd : which docker
+[2020-12-04 10:30:03] [INFO]  execute cmd  end ,cmd : which docker,status :1 , output: 
+[2020-12-04 10:30:03] [INFO]  execute cmd  start ,cmd : curl -s -L get.docker.com | bash
+[2020-12-04 10:30:10] [INFO]  execute cmd  end ,cmd : curl -s -L get.docker.com | bash,status :100 , output: # Executing docker install script, commit: 26ff363bcf3b3f5a00498ac43694bf1c7d9ce16c
++ sudo -E sh -c 'apt-get update -qq >/dev/null'
+E: 仓库 “http://ppa.launchpad.net/webupd8team/java/ubuntu focal Release” 没有 Release 文件。
+[2020-12-04 10:48:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:22] [INFO]  execute cmd  start ,cmd : which git
+[2020-12-04 10:48:22] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /bin/git
+[2020-12-04 10:48:22] [INFO]  execute cmd  start ,cmd : which openssl
+[2020-12-04 10:48:22] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /bin/openssl
+[2020-12-04 10:48:22] [INFO]  execute cmd  start ,cmd : which curl
+[2020-12-04 10:48:22] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /bin/curl
+[2020-12-04 10:48:22] [INFO]  execute cmd  start ,cmd : which wget
+[2020-12-04 10:48:22] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /bin/wget
+[2020-12-04 10:48:22] [INFO]  execute cmd  start ,cmd : which nginx
+[2020-12-04 10:48:22] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2020-12-04 10:48:22] [INFO]  execute cmd  start ,cmd : java -version
+[2020-12-04 10:48:23] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: openjdk version "11.0.9.1" 2020-11-04
+OpenJDK Runtime Environment (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04)
+OpenJDK 64-Bit Server VM (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+[2020-12-04 10:48:23] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2020-12-04 10:48:23] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /lib/jvm/java-11-openjdk-amd64
+[2020-12-04 10:48:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:23] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:48:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:23] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:48:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:23] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:48:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:23] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:48:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:23] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:48:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:23] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:48:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:23] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:48:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:23] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:48:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:23] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:48:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:23] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:48:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:23] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:48:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:48:23] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  execute cmd  start ,cmd : which git
+[2020-12-04 10:50:43] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /bin/git
+[2020-12-04 10:50:43] [INFO]  execute cmd  start ,cmd : which openssl
+[2020-12-04 10:50:43] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /bin/openssl
+[2020-12-04 10:50:43] [INFO]  execute cmd  start ,cmd : which curl
+[2020-12-04 10:50:43] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /bin/curl
+[2020-12-04 10:50:43] [INFO]  execute cmd  start ,cmd : which wget
+[2020-12-04 10:50:43] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /bin/wget
+[2020-12-04 10:50:43] [INFO]  execute cmd  start ,cmd : which nginx
+[2020-12-04 10:50:43] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2020-12-04 10:50:43] [INFO]  execute cmd  start ,cmd : java -version
+[2020-12-04 10:50:43] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: openjdk version "11.0.9.1" 2020-11-04
+OpenJDK Runtime Environment (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04)
+OpenJDK 64-Bit Server VM (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+[2020-12-04 10:50:43] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2020-12-04 10:50:43] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /lib/jvm/java-11-openjdk-amd64
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:50:43] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:50:43] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  execute cmd  start ,cmd : which git
+[2020-12-04 10:58:47] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /bin/git
+[2020-12-04 10:58:47] [INFO]  execute cmd  start ,cmd : which openssl
+[2020-12-04 10:58:47] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /bin/openssl
+[2020-12-04 10:58:47] [INFO]  execute cmd  start ,cmd : which curl
+[2020-12-04 10:58:47] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /bin/curl
+[2020-12-04 10:58:47] [INFO]  execute cmd  start ,cmd : which wget
+[2020-12-04 10:58:47] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /bin/wget
+[2020-12-04 10:58:47] [INFO]  execute cmd  start ,cmd : which nginx
+[2020-12-04 10:58:47] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2020-12-04 10:58:47] [INFO]  execute cmd  start ,cmd : java -version
+[2020-12-04 10:58:47] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: openjdk version "11.0.9.1" 2020-11-04
+OpenJDK Runtime Environment (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04)
+OpenJDK 64-Bit Server VM (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+[2020-12-04 10:58:47] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2020-12-04 10:58:47] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /lib/jvm/java-11-openjdk-amd64
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 10:58:47] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 10:58:47] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  execute cmd  start ,cmd : which git
+[2020-12-04 11:53:27] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /bin/git
+[2020-12-04 11:53:27] [INFO]  execute cmd  start ,cmd : which openssl
+[2020-12-04 11:53:27] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /bin/openssl
+[2020-12-04 11:53:27] [INFO]  execute cmd  start ,cmd : which curl
+[2020-12-04 11:53:27] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /bin/curl
+[2020-12-04 11:53:27] [INFO]  execute cmd  start ,cmd : which wget
+[2020-12-04 11:53:27] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /bin/wget
+[2020-12-04 11:53:27] [INFO]  execute cmd  start ,cmd : which nginx
+[2020-12-04 11:53:27] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2020-12-04 11:53:27] [INFO]  execute cmd  start ,cmd : java -version
+[2020-12-04 11:53:27] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: openjdk version "11.0.9.1" 2020-11-04
+OpenJDK Runtime Environment (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04)
+OpenJDK 64-Bit Server VM (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+[2020-12-04 11:53:27] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2020-12-04 11:53:27] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /lib/jvm/java-11-openjdk-amd64
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:53:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:53:27] [INFO]  execute cmd  start ,cmd : cp -f nodeconf nodetemp
+[2020-12-04 11:53:27] [INFO]  execute cmd  end ,cmd : cp -f nodeconf nodetemp,status :0 , output: 
+[2020-12-04 11:53:27] [INFO]  execute cmd  start ,cmd : sed -i "s/nodeCounts/2/g" nodeconf
+[2020-12-04 11:53:28] [INFO]  execute cmd  end ,cmd : sed -i "s/nodeCounts/2/g" nodeconf,status :0 , output: 
+[2020-12-04 11:53:28] [INFO]  execute cmd  start ,cmd : dos2unix nodeconf
+[2020-12-04 11:53:28] [INFO]  execute cmd  end ,cmd : dos2unix nodeconf,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2020-12-04 11:55:17] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:55:17] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:55:17] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:55:17] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:55:17] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2020-12-04 11:55:17] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2020-12-04 11:55:17] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2020-12-04 11:55:17] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2020-12-04 11:55:19] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:55:19] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:55:19] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:55:26] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:55:26] [INFO]  execute cmd  start ,cmd : unzip -o webase-web.zip
+[2020-12-04 11:55:27] [INFO]  execute cmd  end ,cmd : unzip -o webase-web.zip,status :0 , output: Archive:  webase-web.zip
+   creating: webase-web/
+  inflating: webase-web/index.html   
+   creating: webase-web/static/
+   creating: webase-web/static/css/
+  inflating: webase-web/static/css/base.css  
+  inflating: webase-web/static/css/reset.css  
+   creating: webase-web/static/font/
+   creating: webase-web/static/fonts/
+  inflating: webase-web/static/fonts/element-icons.535877f.woff  
+  inflating: webase-web/static/fonts/element-icons.732389d.ttf  
+  inflating: webase-web/static/fonts/iconfont.8ddfca3.eot  
+  inflating: webase-web/static/fonts/iconfont.ee39531.ttf  
+  inflating: webase-web/static/font/webfont.eot  
+  inflating: webase-web/static/font/webfont.svg  
+  inflating: webase-web/static/font/webfont.ttf  
+  inflating: webase-web/static/font/webfont.woff  
+ extracting: webase-web/static/font/webfont.woff2  
+   creating: webase-web/static/image/
+  inflating: webase-web/static/image/add-front.png  
+  inflating: webase-web/static/image/add-user.png  
+ extracting: webase-web/static/image/artboard.png  
+  inflating: webase-web/static/image/banner-1.jpg  
+  inflating: webase-web/static/image/banner.jpg  
+  inflating: webase-web/static/image/banner.png  
+  inflating: webase-web/static/image/create-contract.png  
+  inflating: webase-web/static/image/guide.69e4d090.png  
+  inflating: webase-web/static/image/logo-2 copy@1.5x.jpg  
+  inflating: webase-web/static/image/logo-title.png  
+ extracting: webase-web/static/image/logo.jpg  
+ extracting: webase-web/static/image/logo@2x.png  
+  inflating: webase-web/static/image/s-right-1.png  
+ extracting: webase-web/static/image/s-right.png  
+ extracting: webase-web/static/image/webase_logo.png  
+   creating: webase-web/static/img/
+  inflating: webase-web/static/img/add-front.1b122a1.png  
+  inflating: webase-web/static/img/add-user.3ef8100.png  
+  inflating: webase-web/static/img/banner.a935fac.png  
+  inflating: webase-web/static/img/create-contract.9e4b72d.png  
+  inflating: webase-web/static/img/guide.69e4d090.69e4d09.png  
+  inflating: webase-web/static/img/iconfont.7fa1e8d.svg  
+   creating: webase-web/static/js/
+  inflating: webase-web/static/js/0.4aed5a0eaf2c1ccbf60a.js  
+  inflating: webase-web/static/js/1.9ffa55bf3cb3aead1ca8.js  
+  inflating: webase-web/static/js/10.edaeb220eea1955d87e8.js  
+  inflating: webase-web/static/js/11.7a6d9e4c1d5094520feb.js  
+  inflating: webase-web/static/js/12.51e5792d199075e3f2c7.js  
+  inflating: webase-web/static/js/13.017d9bbb115315b02b4f.js  
+  inflating: webase-web/static/js/14.caed248b0ce0d52df754.js  
+  inflating: webase-web/static/js/15.3edd2dc1ae1655ccccf6.js  
+  inflating: webase-web/static/js/16.f2aae3c2374f4c65a5a1.js  
+  inflating: webase-web/static/js/17.d8a959256fe81a3473d8.js  
+  inflating: webase-web/static/js/18.cd662c1c4b21273debe7.js  
+  inflating: webase-web/static/js/19.0f7d1ac28765eef8f44f.js  
+  inflating: webase-web/static/js/2.5554f8fc613766c91634.js  
+  inflating: webase-web/static/js/3.306764c83daedbcf0b69.js  
+  inflating: webase-web/static/js/5.0ccd1f558995098a86a8.js  
+  inflating: webase-web/static/js/6.3296dc8834dfd1e424f6.js  
+  inflating: webase-web/static/js/7.9aaab65a9894abdc3850.js  
+  inflating: webase-web/static/js/8.3b7baa3f6db917d9e658.js  
+  inflating: webase-web/static/js/9.a9327df570fc57561105.js  
+  inflating: webase-web/static/js/base-loading.js  
+  inflating: webase-web/static/js/runtime.6322772bc5c994fcda96.js  
+  inflating: webase-web/static/js/v0.4.25-gm.js  
+  inflating: webase-web/static/js/v0.4.25.js  
+  inflating: webase-web/static/js/v0.5.1-gm.js  
+  inflating: webase-web/static/js/v0.5.1.js  
+  inflating: webase-web/static/js/web3.min.js  
+[2020-12-04 11:55:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:55:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:55:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:55:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:55:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:55:27] [INFO]  execute cmd  start ,cmd : cp -f /home/wyt/webase-deploy/comm/nginx.conf /home/wyt/webase-deploy/comm/temp.conf
+[2020-12-04 11:55:27] [INFO]  execute cmd  end ,cmd : cp -f /home/wyt/webase-deploy/comm/nginx.conf /home/wyt/webase-deploy/comm/temp.conf,status :0 , output: 
+[2020-12-04 11:55:27] [INFO]  execute cmd  start ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log
+[2020-12-04 11:55:27] [INFO]  execute cmd  end ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log,status :0 , output: 
+[2020-12-04 11:55:27] [INFO]  execute cmd  start ,cmd : sed -i "s/127.0.0.1/127.0.0.1/g" /home/wyt/webase-deploy/comm/nginx.conf
+[2020-12-04 11:55:27] [INFO]  execute cmd  end ,cmd : sed -i "s/127.0.0.1/127.0.0.1/g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2020-12-04 11:55:27] [INFO]  execute cmd  start ,cmd : sed -i "s/5000/5000/g" /home/wyt/webase-deploy/comm/nginx.conf
+[2020-12-04 11:55:27] [INFO]  execute cmd  end ,cmd : sed -i "s/5000/5000/g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2020-12-04 11:55:27] [INFO]  execute cmd  start ,cmd : sed -i "s/server 127.0.0.1:5001/server 127.0.0.1:5001/g" /home/wyt/webase-deploy/comm/nginx.conf
+[2020-12-04 11:55:27] [INFO]  execute cmd  end ,cmd : sed -i "s/server 127.0.0.1:5001/server 127.0.0.1:5001/g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2020-12-04 11:55:27] [INFO]  execute cmd  start ,cmd : sed -i "s:log_path:/home/wyt/webase-deploy/webase-web/log:g" /home/wyt/webase-deploy/comm/nginx.conf
+[2020-12-04 11:55:27] [INFO]  execute cmd  end ,cmd : sed -i "s:log_path:/home/wyt/webase-deploy/webase-web/log:g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2020-12-04 11:55:27] [INFO]  execute cmd  start ,cmd : sed -i "s:web_page_url:/home/wyt/webase-deploy/webase-web:g" /home/wyt/webase-deploy/comm/nginx.conf
+[2020-12-04 11:55:27] [INFO]  execute cmd  end ,cmd : sed -i "s:web_page_url:/home/wyt/webase-deploy/webase-web:g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2020-12-04 11:55:27] [INFO]  execute cmd  start ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log
+[2020-12-04 11:55:27] [INFO]  execute cmd  end ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log,status :0 , output: 
+[2020-12-04 11:55:27] [INFO]  execute cmd  start ,cmd : which nginx
+[2020-12-04 11:55:27] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2020-12-04 11:55:27] [INFO]  execute cmd  start ,cmd : sudo /usr/sbin/nginx -c /home/wyt/webase-deploy/comm/nginx.conf
+[2020-12-04 11:55:27] [INFO]  execute cmd  end ,cmd : sudo /usr/sbin/nginx -c /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2020-12-04 11:55:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:55:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:55:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:55:27] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:55:27] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:19] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:19] [INFO]  execute cmd  start ,cmd : unzip -o webase-node-mgr.zip
+[2020-12-04 11:56:21] [INFO]  execute cmd  end ,cmd : unzip -o webase-node-mgr.zip,status :0 , output: Archive:  webase-node-mgr.zip
+   creating: webase-node-mgr/
+   creating: webase-node-mgr/apps/
+  inflating: webase-node-mgr/apps/WeBASE-Node-Manager.jar  
+   creating: webase-node-mgr/conf/
+  inflating: webase-node-mgr/conf/application-marsli.yml  
+  inflating: webase-node-mgr/conf/application.yml  
+   creating: webase-node-mgr/conf/Arial/
+  inflating: webase-node-mgr/conf/Arial/arial.ttf  
+  inflating: webase-node-mgr/conf/Arial/arialbd.ttf  
+  inflating: webase-node-mgr/conf/Arial/arialbi.ttf  
+  inflating: webase-node-mgr/conf/Arial/ariali.ttf  
+  inflating: webase-node-mgr/conf/Arial/ARIALN.TTF  
+  inflating: webase-node-mgr/conf/Arial/ARIALNB.TTF  
+  inflating: webase-node-mgr/conf/Arial/ARIALNBI.TTF  
+  inflating: webase-node-mgr/conf/Arial/ARIALNI.TTF  
+  inflating: webase-node-mgr/conf/Arial/ariblk.ttf  
+   creating: webase-node-mgr/conf/log/
+  inflating: webase-node-mgr/conf/log/log4j2-dev.xml  
+  inflating: webase-node-mgr/conf/log/log4j2.xml  
+   creating: webase-node-mgr/conf/mapper/
+  inflating: webase-node-mgr/conf/mapper/AbiMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/AccountMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/AlertLogMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/AlertRuleMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/BlockMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/CertMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/ContractMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/FrontGroupMapMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/FrontMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/GovernVoteMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/GroupMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/MailServerConfig.xml  
+  inflating: webase-node-mgr/conf/mapper/MethodMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/NodeMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/RoleMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/TableMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/TokenMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/TransDailyMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/TransHashMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/UserMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/UserTransMonitorMapper.xml  
+   creating: webase-node-mgr/conf/templates/
+  inflating: webase-node-mgr/conf/templates/AlertEmailForTest.html  
+  inflating: webase-node-mgr/conf/templates/AlertEmailTemplate.html  
+   creating: webase-node-mgr/conf/templates/node/
+  inflating: webase-node-mgr/conf/templates/node/front-application-yml.tpl  
+  inflating: webase-node-mgr/conf/templates/node/node-config-ini.tpl  
+  inflating: webase-node-mgr/conf/templates/node/node-group-genesis.tpl  
+  inflating: webase-node-mgr/conf/templates/node/node-group-ini.tpl  
+   creating: webase-node-mgr/lib/
+  inflating: webase-node-mgr/lib/activation-1.1.1.jar  
+  inflating: webase-node-mgr/lib/aopalliance-repackaged-2.6.1.jar  
+  inflating: webase-node-mgr/lib/aspectjweaver-1.9.5.jar  
+  inflating: webase-node-mgr/lib/attoparser-2.0.5.RELEASE.jar  
+  inflating: webase-node-mgr/lib/bcprov-jdk15on-1.60.jar  
+  inflating: webase-node-mgr/lib/checker-qual-2.11.1.jar  
+  inflating: webase-node-mgr/lib/classmate-1.3.4.jar  
+  inflating: webase-node-mgr/lib/commons-codec-1.11.jar  
+  inflating: webase-node-mgr/lib/commons-collections4-4.4.jar  
+  inflating: webase-node-mgr/lib/commons-compress-1.20.jar  
+  inflating: webase-node-mgr/lib/commons-configuration-1.10.jar  
+  inflating: webase-node-mgr/lib/commons-io-2.6.jar  
+  inflating: webase-node-mgr/lib/commons-lang-2.6.jar  
+  inflating: webase-node-mgr/lib/commons-lang3-3.8.1.jar  
+  inflating: webase-node-mgr/lib/commons-logging-1.2.jar  
+  inflating: webase-node-mgr/lib/docker-java-3.2.1.jar  
+  inflating: webase-node-mgr/lib/docker-java-api-3.2.1.jar  
+  inflating: webase-node-mgr/lib/docker-java-core-3.2.1.jar  
+  inflating: webase-node-mgr/lib/docker-java-transport-jersey-3.2.1.jar  
+  inflating: webase-node-mgr/lib/docker-java-transport-netty-3.2.1.jar  
+  inflating: webase-node-mgr/lib/error_prone_annotations-2.3.4.jar  
+  inflating: webase-node-mgr/lib/failureaccess-1.0.1.jar  
+  inflating: webase-node-mgr/lib/guava-29.0-jre.jar  
+  inflating: webase-node-mgr/lib/hibernate-validator-6.0.20.Final.jar  
+  inflating: webase-node-mgr/lib/HikariCP-3.2.0.jar  
+  inflating: webase-node-mgr/lib/hk2-api-2.6.1.jar  
+  inflating: webase-node-mgr/lib/hk2-locator-2.6.1.jar  
+  inflating: webase-node-mgr/lib/hk2-utils-2.6.1.jar  
+  inflating: webase-node-mgr/lib/httpclient-4.5.12.jar  
+  inflating: webase-node-mgr/lib/httpcore-4.4.13.jar  
+  inflating: webase-node-mgr/lib/ini4j-0.5.4.jar  
+  inflating: webase-node-mgr/lib/j2objc-annotations-1.3.jar  
+  inflating: webase-node-mgr/lib/jackson-annotations-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jackson-core-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jackson-databind-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jackson-datatype-jdk8-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jackson-datatype-jsr310-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jackson-jaxrs-base-2.10.3.jar  
+  inflating: webase-node-mgr/lib/jackson-jaxrs-json-provider-2.10.3.jar  
+  inflating: webase-node-mgr/lib/jackson-module-jaxb-annotations-2.10.3.jar  
+  inflating: webase-node-mgr/lib/jackson-module-parameter-names-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jakarta.activation-api-1.2.1.jar  
+  inflating: webase-node-mgr/lib/jakarta.annotation-api-1.3.5.jar  
+  inflating: webase-node-mgr/lib/jakarta.inject-2.6.1.jar  
+  inflating: webase-node-mgr/lib/jakarta.ws.rs-api-2.1.6.jar  
+  inflating: webase-node-mgr/lib/jakarta.xml.bind-api-2.3.2.jar  
+  inflating: webase-node-mgr/lib/Java-WebSocket-1.5.1.jar  
+  inflating: webase-node-mgr/lib/javapoet-1.7.0.jar  
+  inflating: webase-node-mgr/lib/javassist-3.25.0-GA.jar  
+  inflating: webase-node-mgr/lib/javax.mail-1.6.2.jar  
+  inflating: webase-node-mgr/lib/jaxb-api-2.3.0.jar  
+  inflating: webase-node-mgr/lib/jaxb-core-2.3.0.jar  
+  inflating: webase-node-mgr/lib/jaxb-impl-2.3.0.jar  
+  inflating: webase-node-mgr/lib/jboss-logging-3.3.2.Final.jar  
+  inflating: webase-node-mgr/lib/jcl-over-slf4j-1.7.30.jar  
+  inflating: webase-node-mgr/lib/jersey-apache-connector-2.30.1.jar  
+  inflating: webase-node-mgr/lib/jersey-client-2.30.1.jar  
+  inflating: webase-node-mgr/lib/jersey-common-2.30.1.jar  
+  inflating: webase-node-mgr/lib/jersey-hk2-2.30.1.jar  
+  inflating: webase-node-mgr/lib/jsch-0.1.55.jar  
+  inflating: webase-node-mgr/lib/jsr305-3.0.2.jar  
+  inflating: webase-node-mgr/lib/junixsocket-common-2.3.2.jar  
+  inflating: webase-node-mgr/lib/junixsocket-native-common-2.3.2.jar  
+  inflating: webase-node-mgr/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar  
+  inflating: webase-node-mgr/lib/log4j-api-2.13.3.jar  
+  inflating: webase-node-mgr/lib/log4j-core-2.13.3.jar  
+  inflating: webase-node-mgr/lib/log4j-slf4j-impl-2.13.3.jar  
+  inflating: webase-node-mgr/lib/log4j-web-2.13.3.jar  
+  inflating: webase-node-mgr/lib/lombok-1.18.2.jar  
+  inflating: webase-node-mgr/lib/mybatis-3.5.0.jar  
+  inflating: webase-node-mgr/lib/mybatis-spring-2.0.0.jar  
+  inflating: webase-node-mgr/lib/mybatis-spring-boot-autoconfigure-2.0.0.jar  
+  inflating: webase-node-mgr/lib/mybatis-spring-boot-starter-2.0.0.jar  
+  inflating: webase-node-mgr/lib/mysql-connector-java-8.0.13.jar  
+  inflating: webase-node-mgr/lib/netty-all-4.1.50.Final.jar  
+  inflating: webase-node-mgr/lib/netty-sm-ssl-context-1.1.0.jar  
+  inflating: webase-node-mgr/lib/ognl-3.2.14.jar  
+  inflating: webase-node-mgr/lib/osgi-resource-locator-1.0.3.jar  
+  inflating: webase-node-mgr/lib/picocli-3.6.0.jar  
+  inflating: webase-node-mgr/lib/reactive-streams-1.0.2.jar  
+  inflating: webase-node-mgr/lib/rxjava-1.2.4.jar  
+  inflating: webase-node-mgr/lib/rxjava-2.2.2.jar  
+  inflating: webase-node-mgr/lib/scrypt-1.4.0.jar  
+  inflating: webase-node-mgr/lib/slf4j-api-1.7.30.jar  
+  inflating: webase-node-mgr/lib/snakeyaml-1.23.jar  
+  inflating: webase-node-mgr/lib/solcJ-all-0.4.25.jar  
+  inflating: webase-node-mgr/lib/spring-aop-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-beans-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-autoconfigure-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-aop-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-jdbc-2.0.8.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-json-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-mail-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-security-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-thymeleaf-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-tomcat-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-web-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-context-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-context-support-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-core-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-expression-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-jcl-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-jdbc-5.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-security-config-5.1.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-security-core-5.1.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-security-web-5.1.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-tx-5.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-web-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-webmvc-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/tcnative-2.0.30.0.jar  
+  inflating: webase-node-mgr/lib/thymeleaf-3.0.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/thymeleaf-extras-java8time-3.0.4.RELEASE.jar  
+  inflating: webase-node-mgr/lib/thymeleaf-spring5-3.0.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/tomcat-annotations-api-9.0.36.jar  
+  inflating: webase-node-mgr/lib/tomcat-embed-core-9.0.36.jar  
+  inflating: webase-node-mgr/lib/tomcat-embed-el-9.0.36.jar  
+  inflating: webase-node-mgr/lib/tomcat-embed-websocket-9.0.36.jar  
+  inflating: webase-node-mgr/lib/unbescape-1.1.6.RELEASE.jar  
+  inflating: webase-node-mgr/lib/validation-api-2.0.1.Final.jar  
+  inflating: webase-node-mgr/lib/web3sdk-2.6.1.jar  
+  inflating: webase-node-mgr/lib/zkclient-0.1.jar  
+  inflating: webase-node-mgr/lib/zookeeper-3.3.3.jar  
+   creating: webase-node-mgr/script/
+   creating: webase-node-mgr/script/deploy/
+  inflating: webase-node-mgr/script/deploy/build_chain.sh  
+  inflating: webase-node-mgr/script/deploy/file_trans_util.sh  
+  inflating: webase-node-mgr/script/deploy/gen_agency_cert.sh  
+  inflating: webase-node-mgr/script/deploy/gen_node_cert.sh  
+  inflating: webase-node-mgr/script/deploy/host_docker_tcp.sh  
+  inflating: webase-node-mgr/script/deploy/host_init_shell.sh  
+  inflating: webase-node-mgr/script/deploy/host_operate.sh  
+  inflating: webase-node-mgr/script/deploy/update_shell.sh  
+   creating: webase-node-mgr/script/gm/
+  inflating: webase-node-mgr/script/gm/webase-dml-gm.sql  
+  inflating: webase-node-mgr/script/gm/webase-gm.sh  
+  inflating: webase-node-mgr/script/gm/webase-sql-gm.list  
+  inflating: webase-node-mgr/script/webase-ddl.sql  
+  inflating: webase-node-mgr/script/webase-dml.sql  
+  inflating: webase-node-mgr/script/webase-sql.list  
+  inflating: webase-node-mgr/script/webase.sh  
+  inflating: webase-node-mgr/start.sh  
+  inflating: webase-node-mgr/status.sh  
+  inflating: webase-node-mgr/stop.sh  
+[2020-12-04 11:56:21] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:21] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:21] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:21] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:21] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:21] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:21] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:21] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:21] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:21] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:21] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:21] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:21] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:21] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:21] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:21] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:21] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:21] [INFO]  execute cmd  start ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh /home/wyt/webase-deploy/webase-node-mgr/script/temp.sh
+[2020-12-04 11:56:21] [INFO]  execute cmd  end ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh /home/wyt/webase-deploy/webase-node-mgr/script/temp.sh,status :0 , output: 
+[2020-12-04 11:56:21] [INFO]  execute cmd  start ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml /home/wyt/webase-deploy/webase-node-mgr/conf/temp.yml
+[2020-12-04 11:56:21] [INFO]  execute cmd  end ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml /home/wyt/webase-deploy/webase-node-mgr/conf/temp.yml,status :0 , output: 
+[2020-12-04 11:56:21] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2020-12-04 11:56:22] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2020-12-04 11:56:22] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2020-12-04 11:56:22] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2020-12-04 11:56:22] [INFO]  execute cmd  start ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2020-12-04 11:56:22] [INFO]  execute cmd  end ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2020-12-04 11:56:22] [INFO]  execute cmd  start ,cmd : sed -i "s/5001/5001/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2020-12-04 11:56:22] [INFO]  execute cmd  end ,cmd : sed -i "s/5001/5001/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2020-12-04 11:56:22] [INFO]  execute cmd  start ,cmd : sed -i "s/127.0.0.1/localhost/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2020-12-04 11:56:22] [INFO]  execute cmd  end ,cmd : sed -i "s/127.0.0.1/localhost/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2020-12-04 11:56:22] [INFO]  execute cmd  start ,cmd : sed -i "s/3306/3306/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2020-12-04 11:56:22] [INFO]  execute cmd  end ,cmd : sed -i "s/3306/3306/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2020-12-04 11:56:22] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2020-12-04 11:56:22] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2020-12-04 11:56:22] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2020-12-04 11:56:22] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2020-12-04 11:56:22] [INFO]  execute cmd  start ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2020-12-04 11:56:22] [INFO]  execute cmd  end ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2020-12-04 11:56:22] [INFO]  execute cmd  start ,cmd : sed -i "s%encryptType: 0%encryptType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2020-12-04 11:56:22] [INFO]  execute cmd  end ,cmd : sed -i "s%encryptType: 0%encryptType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2020-12-04 11:56:22] [INFO]  execute cmd  start ,cmd : sed -i "s%deployType:.*$%deployType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2020-12-04 11:56:22] [INFO]  execute cmd  end ,cmd : sed -i "s%deployType:.*$%deployType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2020-12-04 11:56:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:56:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2020-12-04 11:56:22] [INFO]  mysql except Traceback (most recent call last):
+  File "/home/wyt/webase-deploy/comm/mysql.py", line 53, in dbConnect
+    conn = mdb.connect(host=mysql_ip, port=mysql_port, user=mysql_user, passwd=mysql_password, charset='utf8')
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 327, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 588, in connect
+    self._request_authentication()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 853, in _request_authentication
+    auth_packet = self._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 676, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 223, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1698, "Access denied for user 'dbUsername'@'localhost'")
+
+[2020-12-04 11:57:26] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:57:26] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2020-12-04 11:57:26] [INFO]  execute cmd  start ,cmd : which git
+[2020-12-04 11:57:26] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/bin/git
+[2020-12-04 11:57:26] [INFO]  execute cmd  start ,cmd : which openssl
+[2020-12-04 11:57:26] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2020-12-04 11:57:26] [INFO]  execute cmd  start ,cmd : which curl
+[2020-12-04 11:57:26] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2020-12-04 11:57:26] [INFO]  execute cmd  start ,cmd : which wget
+[2020-12-04 11:57:26] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/bin/wget
+[2020-12-04 11:57:26] [INFO]  execute cmd  start ,cmd : which nginx
+[2020-12-04 11:57:26] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2020-12-04 11:57:26] [INFO]  execute cmd  start ,cmd : java -version
+[2020-12-04 11:57:26] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: openjdk version "11.0.9.1" 2020-11-04
+OpenJDK Runtime Environment (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04)
+OpenJDK 64-Bit Server VM (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+[2020-12-04 11:57:26] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2020-12-04 11:57:26] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: 
+[2021-01-23 10:36:39] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:36:39] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:36:39] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:36:39] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:36:39] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:36:39] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:36:39] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:36:39] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:36:39] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:36:39] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:36:39] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:36:39] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:36:39] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:36:39] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:36:39] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 10:36:39] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 10:36:39] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 10:36:39] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 10:36:40] [INFO]  execute cmd  start ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log
+[2021-01-23 10:36:40] [INFO]  execute cmd  end ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log,status :0 , output: 
+[2021-01-23 10:36:40] [INFO]  execute cmd  start ,cmd : which nginx
+[2021-01-23 10:36:40] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2021-01-23 10:36:40] [INFO]  execute cmd  start ,cmd : sudo /usr/sbin/nginx -c /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:36:50] [INFO]  execute cmd  end ,cmd : sudo /usr/sbin/nginx -c /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:36:50] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:36:50] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:36:50] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2021-01-23 10:36:50] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2021-01-23 10:36:50] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 10:36:50] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 10:36:50] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 10:36:50] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 10:36:50] [INFO]  execute cmd  start ,cmd : bash start.sh
+[2021-01-23 10:36:51] [INFO]  execute cmd  end ,cmd : bash start.sh,status :0 , output: ===============================================================================================
+Server com.webank.webase.node.mgr.Application Port 5001 ...PID(5971) [Starting]. Please message check through the log file (default path:./log/).
+===============================================================================================
+[2021-01-23 10:36:51] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:36:51] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:38:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:38:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:38:22] [INFO]  execute cmd  start ,cmd : which git
+[2021-01-23 10:38:22] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /bin/git
+[2021-01-23 10:38:22] [INFO]  execute cmd  start ,cmd : which openssl
+[2021-01-23 10:38:22] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /bin/openssl
+[2021-01-23 10:38:22] [INFO]  execute cmd  start ,cmd : which curl
+[2021-01-23 10:38:22] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /bin/curl
+[2021-01-23 10:38:22] [INFO]  execute cmd  start ,cmd : which wget
+[2021-01-23 10:38:22] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /bin/wget
+[2021-01-23 10:38:22] [INFO]  execute cmd  start ,cmd : which nginx
+[2021-01-23 10:38:22] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2021-01-23 10:38:22] [INFO]  execute cmd  start ,cmd : java -version
+[2021-01-23 10:38:22] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: openjdk version "11.0.9.1" 2020-11-04
+OpenJDK Runtime Environment (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04)
+OpenJDK 64-Bit Server VM (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+[2021-01-23 10:38:22] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2021-01-23 10:38:22] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /lib/jvm/java-11-openjdk-amd64
+[2021-01-23 10:38:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:38:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:38:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:38:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:38:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:38:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:38:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:38:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:38:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:38:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:38:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:38:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:38:36] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:38:36] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:38:36] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:38:36] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:38:36] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:38:36] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:38:36] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 10:38:36] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 10:38:36] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 10:38:36] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 10:38:40] [INFO]  execute cmd  start ,cmd : sudo rm -rf /run/nginx-webase-web.pid
+[2021-01-23 10:38:40] [INFO]  execute cmd  end ,cmd : sudo rm -rf /run/nginx-webase-web.pid,status :0 , output: 
+[2021-01-23 10:38:40] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2021-01-23 10:38:41] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2021-01-23 10:38:41] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 10:38:41] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 10:38:41] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 10:38:41] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 10:38:41] [INFO]  execute cmd  start ,cmd : bash stop.sh
+[2021-01-23 10:38:41] [INFO]  execute cmd  end ,cmd : bash stop.sh,status :0 , output: ===============================================================================================
+Stopping Server com.webank.webase.node.mgr.Application Port 5001 PID(5971)...[Success]
+===============================================================================================
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  execute cmd  start ,cmd : which git
+[2021-01-23 10:39:25] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /bin/git
+[2021-01-23 10:39:25] [INFO]  execute cmd  start ,cmd : which openssl
+[2021-01-23 10:39:25] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /bin/openssl
+[2021-01-23 10:39:25] [INFO]  execute cmd  start ,cmd : which curl
+[2021-01-23 10:39:25] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /bin/curl
+[2021-01-23 10:39:25] [INFO]  execute cmd  start ,cmd : which wget
+[2021-01-23 10:39:25] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /bin/wget
+[2021-01-23 10:39:25] [INFO]  execute cmd  start ,cmd : which nginx
+[2021-01-23 10:39:25] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2021-01-23 10:39:25] [INFO]  execute cmd  start ,cmd : java -version
+[2021-01-23 10:39:25] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: openjdk version "11.0.9.1" 2020-11-04
+OpenJDK Runtime Environment (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04)
+OpenJDK 64-Bit Server VM (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+[2021-01-23 10:39:25] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2021-01-23 10:39:25] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /lib/jvm/java-11-openjdk-amd64
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:39:25] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:39:25] [INFO]  execute cmd  start ,cmd : cp -f nodetemp nodeconf
+[2021-01-23 10:39:25] [INFO]  execute cmd  end ,cmd : cp -f nodetemp nodeconf,status :0 , output: 
+[2021-01-23 10:39:25] [INFO]  execute cmd  start ,cmd : sed -i "s/nodeCounts/2/g" nodeconf
+[2021-01-23 10:39:25] [INFO]  execute cmd  end ,cmd : sed -i "s/nodeCounts/2/g" nodeconf,status :0 , output: 
+[2021-01-23 10:39:25] [INFO]  execute cmd  start ,cmd : dos2unix nodeconf
+[2021-01-23 10:39:25] [INFO]  execute cmd  end ,cmd : dos2unix nodeconf,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 10:39:32] [INFO]  execute cmd  start ,cmd : rm -f build_chain.sh
+[2021-01-23 10:39:32] [INFO]  execute cmd  end ,cmd : rm -f build_chain.sh,status :0 , output: 
+[2021-01-23 10:39:41] [INFO]  execute cmd  start ,cmd : bash nodes/127.0.0.1/stop_all.sh
+[2021-01-23 10:39:41] [INFO]  execute cmd  end ,cmd : bash nodes/127.0.0.1/stop_all.sh,status :0 , output: try to stop node0
+try to stop node1
+ node1 isn't running.
+ node0 isn't running.
+[2021-01-23 10:39:41] [INFO]  execute cmd  start ,cmd : rm -rf nodes
+[2021-01-23 10:39:41] [INFO]  execute cmd  end ,cmd : rm -rf nodes,status :0 , output: 
+[2021-01-23 10:40:13] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:40:13] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:40:13] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:40:13] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:40:13] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 10:40:13] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 10:40:13] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 10:40:13] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 10:40:16] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:40:16] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:40:16] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:40:25] [INFO]  execute cmd  start ,cmd : rm -rf webase-web.zip
+[2021-01-23 10:40:25] [INFO]  execute cmd  end ,cmd : rm -rf webase-web.zip,status :0 , output: 
+[2021-01-23 10:40:25] [INFO]  execute cmd  start ,cmd : rm -rf webase-web
+[2021-01-23 10:40:25] [INFO]  execute cmd  end ,cmd : rm -rf webase-web,status :0 , output: 
+[2021-01-23 10:40:32] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:40:32] [INFO]  execute cmd  start ,cmd : unzip -o webase-web.zip
+[2021-01-23 10:40:34] [INFO]  execute cmd  end ,cmd : unzip -o webase-web.zip,status :0 , output: Archive:  webase-web.zip
+   creating: webase-web/
+  inflating: webase-web/index.html   
+   creating: webase-web/static/
+   creating: webase-web/static/css/
+  inflating: webase-web/static/css/base.css  
+  inflating: webase-web/static/css/reset.css  
+   creating: webase-web/static/font/
+   creating: webase-web/static/fonts/
+  inflating: webase-web/static/fonts/element-icons.535877f.woff  
+  inflating: webase-web/static/fonts/element-icons.732389d.ttf  
+  inflating: webase-web/static/fonts/iconfont.8ddfca3.eot  
+  inflating: webase-web/static/fonts/iconfont.ee39531.ttf  
+  inflating: webase-web/static/font/webfont.eot  
+  inflating: webase-web/static/font/webfont.svg  
+  inflating: webase-web/static/font/webfont.ttf  
+  inflating: webase-web/static/font/webfont.woff  
+ extracting: webase-web/static/font/webfont.woff2  
+   creating: webase-web/static/image/
+  inflating: webase-web/static/image/add-front.png  
+  inflating: webase-web/static/image/add-user.png  
+ extracting: webase-web/static/image/artboard.png  
+  inflating: webase-web/static/image/banner-1.jpg  
+  inflating: webase-web/static/image/banner.jpg  
+  inflating: webase-web/static/image/banner.png  
+  inflating: webase-web/static/image/create-contract.png  
+  inflating: webase-web/static/image/guide.69e4d090.png  
+  inflating: webase-web/static/image/logo-2 copy@1.5x.jpg  
+  inflating: webase-web/static/image/logo-title.png  
+ extracting: webase-web/static/image/logo.jpg  
+ extracting: webase-web/static/image/logo@2x.png  
+  inflating: webase-web/static/image/s-right-1.png  
+ extracting: webase-web/static/image/s-right.png  
+ extracting: webase-web/static/image/webase_logo.png  
+   creating: webase-web/static/img/
+  inflating: webase-web/static/img/add-front.1b122a1.png  
+  inflating: webase-web/static/img/add-user.3ef8100.png  
+  inflating: webase-web/static/img/banner.a935fac.png  
+  inflating: webase-web/static/img/create-contract.9e4b72d.png  
+  inflating: webase-web/static/img/guide.69e4d090.69e4d09.png  
+  inflating: webase-web/static/img/iconfont.7fa1e8d.svg  
+   creating: webase-web/static/js/
+  inflating: webase-web/static/js/0.4aed5a0eaf2c1ccbf60a.js  
+  inflating: webase-web/static/js/1.9ffa55bf3cb3aead1ca8.js  
+  inflating: webase-web/static/js/10.edaeb220eea1955d87e8.js  
+  inflating: webase-web/static/js/11.7a6d9e4c1d5094520feb.js  
+  inflating: webase-web/static/js/12.51e5792d199075e3f2c7.js  
+  inflating: webase-web/static/js/13.017d9bbb115315b02b4f.js  
+  inflating: webase-web/static/js/14.caed248b0ce0d52df754.js  
+  inflating: webase-web/static/js/15.3edd2dc1ae1655ccccf6.js  
+  inflating: webase-web/static/js/16.f2aae3c2374f4c65a5a1.js  
+  inflating: webase-web/static/js/17.d8a959256fe81a3473d8.js  
+  inflating: webase-web/static/js/18.cd662c1c4b21273debe7.js  
+  inflating: webase-web/static/js/19.0f7d1ac28765eef8f44f.js  
+  inflating: webase-web/static/js/2.5554f8fc613766c91634.js  
+  inflating: webase-web/static/js/3.306764c83daedbcf0b69.js  
+  inflating: webase-web/static/js/5.0ccd1f558995098a86a8.js  
+  inflating: webase-web/static/js/6.3296dc8834dfd1e424f6.js  
+  inflating: webase-web/static/js/7.9aaab65a9894abdc3850.js  
+  inflating: webase-web/static/js/8.3b7baa3f6db917d9e658.js  
+  inflating: webase-web/static/js/9.a9327df570fc57561105.js  
+  inflating: webase-web/static/js/base-loading.js  
+  inflating: webase-web/static/js/runtime.6322772bc5c994fcda96.js  
+  inflating: webase-web/static/js/v0.4.25-gm.js  
+  inflating: webase-web/static/js/v0.4.25.js  
+  inflating: webase-web/static/js/v0.5.1-gm.js  
+  inflating: webase-web/static/js/v0.5.1.js  
+  inflating: webase-web/static/js/web3.min.js  
+[2021-01-23 10:40:34] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:40:34] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:40:34] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:40:34] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:40:34] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:40:34] [INFO]  execute cmd  start ,cmd : cp -f /home/wyt/webase-deploy/comm/temp.conf /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:40:34] [INFO]  execute cmd  end ,cmd : cp -f /home/wyt/webase-deploy/comm/temp.conf /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:40:34] [INFO]  execute cmd  start ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log
+[2021-01-23 10:40:34] [INFO]  execute cmd  end ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log,status :0 , output: 
+[2021-01-23 10:40:34] [INFO]  execute cmd  start ,cmd : sed -i "s/127.0.0.1/127.0.0.1/g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:40:34] [INFO]  execute cmd  end ,cmd : sed -i "s/127.0.0.1/127.0.0.1/g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:40:34] [INFO]  execute cmd  start ,cmd : sed -i "s/5000/5000/g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:40:34] [INFO]  execute cmd  end ,cmd : sed -i "s/5000/5000/g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:40:34] [INFO]  execute cmd  start ,cmd : sed -i "s/server 127.0.0.1:5001/server 127.0.0.1:5001/g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:40:34] [INFO]  execute cmd  end ,cmd : sed -i "s/server 127.0.0.1:5001/server 127.0.0.1:5001/g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:40:34] [INFO]  execute cmd  start ,cmd : sed -i "s:log_path:/home/wyt/webase-deploy/webase-web/log:g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:40:34] [INFO]  execute cmd  end ,cmd : sed -i "s:log_path:/home/wyt/webase-deploy/webase-web/log:g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:40:34] [INFO]  execute cmd  start ,cmd : sed -i "s:web_page_url:/home/wyt/webase-deploy/webase-web:g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:40:34] [INFO]  execute cmd  end ,cmd : sed -i "s:web_page_url:/home/wyt/webase-deploy/webase-web:g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:40:34] [INFO]  execute cmd  start ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log
+[2021-01-23 10:40:34] [INFO]  execute cmd  end ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log,status :0 , output: 
+[2021-01-23 10:40:34] [INFO]  execute cmd  start ,cmd : which nginx
+[2021-01-23 10:40:34] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2021-01-23 10:40:34] [INFO]  execute cmd  start ,cmd : sudo /usr/sbin/nginx -c /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:40:34] [INFO]  execute cmd  end ,cmd : sudo /usr/sbin/nginx -c /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:40:34] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:40:34] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:40:34] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:40:34] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:40:34] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:40:43] [INFO]  execute cmd  start ,cmd : rm -rf webase-node-mgr.zip
+[2021-01-23 10:40:43] [INFO]  execute cmd  end ,cmd : rm -rf webase-node-mgr.zip,status :0 , output: 
+[2021-01-23 10:40:43] [INFO]  execute cmd  start ,cmd : rm -rf webase-node-mgr
+[2021-01-23 10:40:43] [INFO]  execute cmd  end ,cmd : rm -rf webase-node-mgr,status :0 , output: 
+[2021-01-23 10:41:34] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:34] [INFO]  execute cmd  start ,cmd : unzip -o webase-node-mgr.zip
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : unzip -o webase-node-mgr.zip,status :0 , output: Archive:  webase-node-mgr.zip
+   creating: webase-node-mgr/
+   creating: webase-node-mgr/apps/
+  inflating: webase-node-mgr/apps/WeBASE-Node-Manager.jar  
+   creating: webase-node-mgr/conf/
+  inflating: webase-node-mgr/conf/application-marsli.yml  
+  inflating: webase-node-mgr/conf/application.yml  
+   creating: webase-node-mgr/conf/Arial/
+  inflating: webase-node-mgr/conf/Arial/arial.ttf  
+  inflating: webase-node-mgr/conf/Arial/arialbd.ttf  
+  inflating: webase-node-mgr/conf/Arial/arialbi.ttf  
+  inflating: webase-node-mgr/conf/Arial/ariali.ttf  
+  inflating: webase-node-mgr/conf/Arial/ARIALN.TTF  
+  inflating: webase-node-mgr/conf/Arial/ARIALNB.TTF  
+  inflating: webase-node-mgr/conf/Arial/ARIALNBI.TTF  
+  inflating: webase-node-mgr/conf/Arial/ARIALNI.TTF  
+  inflating: webase-node-mgr/conf/Arial/ariblk.ttf  
+   creating: webase-node-mgr/conf/log/
+  inflating: webase-node-mgr/conf/log/log4j2-dev.xml  
+  inflating: webase-node-mgr/conf/log/log4j2.xml  
+   creating: webase-node-mgr/conf/mapper/
+  inflating: webase-node-mgr/conf/mapper/AbiMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/AccountMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/AlertLogMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/AlertRuleMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/BlockMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/CertMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/ContractMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/FrontGroupMapMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/FrontMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/GovernVoteMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/GroupMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/MailServerConfig.xml  
+  inflating: webase-node-mgr/conf/mapper/MethodMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/NodeMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/RoleMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/TableMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/TokenMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/TransDailyMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/TransHashMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/UserMapper.xml  
+  inflating: webase-node-mgr/conf/mapper/UserTransMonitorMapper.xml  
+   creating: webase-node-mgr/conf/templates/
+  inflating: webase-node-mgr/conf/templates/AlertEmailForTest.html  
+  inflating: webase-node-mgr/conf/templates/AlertEmailTemplate.html  
+   creating: webase-node-mgr/conf/templates/node/
+  inflating: webase-node-mgr/conf/templates/node/front-application-yml.tpl  
+  inflating: webase-node-mgr/conf/templates/node/node-config-ini.tpl  
+  inflating: webase-node-mgr/conf/templates/node/node-group-genesis.tpl  
+  inflating: webase-node-mgr/conf/templates/node/node-group-ini.tpl  
+   creating: webase-node-mgr/lib/
+  inflating: webase-node-mgr/lib/activation-1.1.1.jar  
+  inflating: webase-node-mgr/lib/aopalliance-repackaged-2.6.1.jar  
+  inflating: webase-node-mgr/lib/aspectjweaver-1.9.5.jar  
+  inflating: webase-node-mgr/lib/attoparser-2.0.5.RELEASE.jar  
+  inflating: webase-node-mgr/lib/bcprov-jdk15on-1.60.jar  
+  inflating: webase-node-mgr/lib/checker-qual-2.11.1.jar  
+  inflating: webase-node-mgr/lib/classmate-1.3.4.jar  
+  inflating: webase-node-mgr/lib/commons-codec-1.11.jar  
+  inflating: webase-node-mgr/lib/commons-collections4-4.4.jar  
+  inflating: webase-node-mgr/lib/commons-compress-1.20.jar  
+  inflating: webase-node-mgr/lib/commons-configuration-1.10.jar  
+  inflating: webase-node-mgr/lib/commons-io-2.6.jar  
+  inflating: webase-node-mgr/lib/commons-lang-2.6.jar  
+  inflating: webase-node-mgr/lib/commons-lang3-3.8.1.jar  
+  inflating: webase-node-mgr/lib/commons-logging-1.2.jar  
+  inflating: webase-node-mgr/lib/docker-java-3.2.1.jar  
+  inflating: webase-node-mgr/lib/docker-java-api-3.2.1.jar  
+  inflating: webase-node-mgr/lib/docker-java-core-3.2.1.jar  
+  inflating: webase-node-mgr/lib/docker-java-transport-jersey-3.2.1.jar  
+  inflating: webase-node-mgr/lib/docker-java-transport-netty-3.2.1.jar  
+  inflating: webase-node-mgr/lib/error_prone_annotations-2.3.4.jar  
+  inflating: webase-node-mgr/lib/failureaccess-1.0.1.jar  
+  inflating: webase-node-mgr/lib/guava-29.0-jre.jar  
+  inflating: webase-node-mgr/lib/hibernate-validator-6.0.20.Final.jar  
+  inflating: webase-node-mgr/lib/HikariCP-3.2.0.jar  
+  inflating: webase-node-mgr/lib/hk2-api-2.6.1.jar  
+  inflating: webase-node-mgr/lib/hk2-locator-2.6.1.jar  
+  inflating: webase-node-mgr/lib/hk2-utils-2.6.1.jar  
+  inflating: webase-node-mgr/lib/httpclient-4.5.12.jar  
+  inflating: webase-node-mgr/lib/httpcore-4.4.13.jar  
+  inflating: webase-node-mgr/lib/ini4j-0.5.4.jar  
+  inflating: webase-node-mgr/lib/j2objc-annotations-1.3.jar  
+  inflating: webase-node-mgr/lib/jackson-annotations-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jackson-core-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jackson-databind-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jackson-datatype-jdk8-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jackson-datatype-jsr310-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jackson-jaxrs-base-2.10.3.jar  
+  inflating: webase-node-mgr/lib/jackson-jaxrs-json-provider-2.10.3.jar  
+  inflating: webase-node-mgr/lib/jackson-module-jaxb-annotations-2.10.3.jar  
+  inflating: webase-node-mgr/lib/jackson-module-parameter-names-2.11.0.jar  
+  inflating: webase-node-mgr/lib/jakarta.activation-api-1.2.1.jar  
+  inflating: webase-node-mgr/lib/jakarta.annotation-api-1.3.5.jar  
+  inflating: webase-node-mgr/lib/jakarta.inject-2.6.1.jar  
+  inflating: webase-node-mgr/lib/jakarta.ws.rs-api-2.1.6.jar  
+  inflating: webase-node-mgr/lib/jakarta.xml.bind-api-2.3.2.jar  
+  inflating: webase-node-mgr/lib/Java-WebSocket-1.5.1.jar  
+  inflating: webase-node-mgr/lib/javapoet-1.7.0.jar  
+  inflating: webase-node-mgr/lib/javassist-3.25.0-GA.jar  
+  inflating: webase-node-mgr/lib/javax.mail-1.6.2.jar  
+  inflating: webase-node-mgr/lib/jaxb-api-2.3.0.jar  
+  inflating: webase-node-mgr/lib/jaxb-core-2.3.0.jar  
+  inflating: webase-node-mgr/lib/jaxb-impl-2.3.0.jar  
+  inflating: webase-node-mgr/lib/jboss-logging-3.3.2.Final.jar  
+  inflating: webase-node-mgr/lib/jcl-over-slf4j-1.7.30.jar  
+  inflating: webase-node-mgr/lib/jersey-apache-connector-2.30.1.jar  
+  inflating: webase-node-mgr/lib/jersey-client-2.30.1.jar  
+  inflating: webase-node-mgr/lib/jersey-common-2.30.1.jar  
+  inflating: webase-node-mgr/lib/jersey-hk2-2.30.1.jar  
+  inflating: webase-node-mgr/lib/jsch-0.1.55.jar  
+  inflating: webase-node-mgr/lib/jsr305-3.0.2.jar  
+  inflating: webase-node-mgr/lib/junixsocket-common-2.3.2.jar  
+  inflating: webase-node-mgr/lib/junixsocket-native-common-2.3.2.jar  
+  inflating: webase-node-mgr/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar  
+  inflating: webase-node-mgr/lib/log4j-api-2.13.3.jar  
+  inflating: webase-node-mgr/lib/log4j-core-2.13.3.jar  
+  inflating: webase-node-mgr/lib/log4j-slf4j-impl-2.13.3.jar  
+  inflating: webase-node-mgr/lib/log4j-web-2.13.3.jar  
+  inflating: webase-node-mgr/lib/lombok-1.18.2.jar  
+  inflating: webase-node-mgr/lib/mybatis-3.5.0.jar  
+  inflating: webase-node-mgr/lib/mybatis-spring-2.0.0.jar  
+  inflating: webase-node-mgr/lib/mybatis-spring-boot-autoconfigure-2.0.0.jar  
+  inflating: webase-node-mgr/lib/mybatis-spring-boot-starter-2.0.0.jar  
+  inflating: webase-node-mgr/lib/mysql-connector-java-8.0.13.jar  
+  inflating: webase-node-mgr/lib/netty-all-4.1.50.Final.jar  
+  inflating: webase-node-mgr/lib/netty-sm-ssl-context-1.1.0.jar  
+  inflating: webase-node-mgr/lib/ognl-3.2.14.jar  
+  inflating: webase-node-mgr/lib/osgi-resource-locator-1.0.3.jar  
+  inflating: webase-node-mgr/lib/picocli-3.6.0.jar  
+  inflating: webase-node-mgr/lib/reactive-streams-1.0.2.jar  
+  inflating: webase-node-mgr/lib/rxjava-1.2.4.jar  
+  inflating: webase-node-mgr/lib/rxjava-2.2.2.jar  
+  inflating: webase-node-mgr/lib/scrypt-1.4.0.jar  
+  inflating: webase-node-mgr/lib/slf4j-api-1.7.30.jar  
+  inflating: webase-node-mgr/lib/snakeyaml-1.23.jar  
+  inflating: webase-node-mgr/lib/solcJ-all-0.4.25.jar  
+  inflating: webase-node-mgr/lib/spring-aop-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-beans-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-autoconfigure-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-aop-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-jdbc-2.0.8.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-json-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-mail-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-security-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-thymeleaf-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-tomcat-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-boot-starter-web-2.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-context-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-context-support-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-core-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-expression-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-jcl-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-jdbc-5.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-security-config-5.1.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-security-core-5.1.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-security-web-5.1.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-tx-5.1.15.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-web-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/spring-webmvc-5.1.16.RELEASE.jar  
+  inflating: webase-node-mgr/lib/tcnative-2.0.30.0.jar  
+  inflating: webase-node-mgr/lib/thymeleaf-3.0.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/thymeleaf-extras-java8time-3.0.4.RELEASE.jar  
+  inflating: webase-node-mgr/lib/thymeleaf-spring5-3.0.11.RELEASE.jar  
+  inflating: webase-node-mgr/lib/tomcat-annotations-api-9.0.36.jar  
+  inflating: webase-node-mgr/lib/tomcat-embed-core-9.0.36.jar  
+  inflating: webase-node-mgr/lib/tomcat-embed-el-9.0.36.jar  
+  inflating: webase-node-mgr/lib/tomcat-embed-websocket-9.0.36.jar  
+  inflating: webase-node-mgr/lib/unbescape-1.1.6.RELEASE.jar  
+  inflating: webase-node-mgr/lib/validation-api-2.0.1.Final.jar  
+  inflating: webase-node-mgr/lib/web3sdk-2.6.1.jar  
+  inflating: webase-node-mgr/lib/zkclient-0.1.jar  
+  inflating: webase-node-mgr/lib/zookeeper-3.3.3.jar  
+   creating: webase-node-mgr/script/
+   creating: webase-node-mgr/script/deploy/
+  inflating: webase-node-mgr/script/deploy/build_chain.sh  
+  inflating: webase-node-mgr/script/deploy/file_trans_util.sh  
+  inflating: webase-node-mgr/script/deploy/gen_agency_cert.sh  
+  inflating: webase-node-mgr/script/deploy/gen_node_cert.sh  
+  inflating: webase-node-mgr/script/deploy/host_docker_tcp.sh  
+  inflating: webase-node-mgr/script/deploy/host_init_shell.sh  
+  inflating: webase-node-mgr/script/deploy/host_operate.sh  
+  inflating: webase-node-mgr/script/deploy/update_shell.sh  
+   creating: webase-node-mgr/script/gm/
+  inflating: webase-node-mgr/script/gm/webase-dml-gm.sql  
+  inflating: webase-node-mgr/script/gm/webase-gm.sh  
+  inflating: webase-node-mgr/script/gm/webase-sql-gm.list  
+  inflating: webase-node-mgr/script/webase-ddl.sql  
+  inflating: webase-node-mgr/script/webase-dml.sql  
+  inflating: webase-node-mgr/script/webase-sql.list  
+  inflating: webase-node-mgr/script/webase.sh  
+  inflating: webase-node-mgr/start.sh  
+  inflating: webase-node-mgr/status.sh  
+  inflating: webase-node-mgr/stop.sh  
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh /home/wyt/webase-deploy/webase-node-mgr/script/temp.sh
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh /home/wyt/webase-deploy/webase-node-mgr/script/temp.sh,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml /home/wyt/webase-deploy/webase-node-mgr/conf/temp.yml
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml /home/wyt/webase-deploy/webase-node-mgr/conf/temp.yml,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : sed -i "s/5001/5001/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : sed -i "s/5001/5001/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : sed -i "s/127.0.0.1/localhost/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : sed -i "s/127.0.0.1/localhost/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : sed -i "s/3306/3306/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : sed -i "s/3306/3306/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : sed -i "s%encryptType: 0%encryptType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : sed -i "s%encryptType: 0%encryptType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]  execute cmd  start ,cmd : sed -i "s%deployType:.*$%deployType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:41:37] [INFO]  execute cmd  end ,cmd : sed -i "s%deployType:.*$%deployType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:41:37] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:41:37] [INFO]  mysql except Traceback (most recent call last):
+  File "/home/wyt/webase-deploy/comm/mysql.py", line 53, in dbConnect
+    conn = mdb.connect(host=mysql_ip, port=mysql_port, user=mysql_user, passwd=mysql_password, charset='utf8')
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 327, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 588, in connect
+    self._request_authentication()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 853, in _request_authentication
+    auth_packet = self._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 676, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 223, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1698, "Access denied for user 'dbUsername'@'localhost'")
+
+[2021-01-23 10:47:49] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:47:49] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:47:49] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:47:49] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:47:49] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:47:49] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:47:49] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 10:47:49] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 10:47:49] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 10:47:49] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 10:47:53] [INFO]  execute cmd  start ,cmd : sudo rm -rf /run/nginx-webase-web.pid
+[2021-01-23 10:47:53] [INFO]  execute cmd  end ,cmd : sudo rm -rf /run/nginx-webase-web.pid,status :0 , output: 
+[2021-01-23 10:47:53] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2021-01-23 10:47:53] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2021-01-23 10:47:53] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 10:47:53] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 10:47:53] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 10:47:53] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 10:47:53] [INFO]  execute cmd  start ,cmd : bash stop.sh
+[2021-01-23 10:47:53] [INFO]  execute cmd  end ,cmd : bash stop.sh,status :0 , output: ===============================================================================================
+Server com.webank.webase.node.mgr.Application Port 5001 is not running
+===============================================================================================
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  execute cmd  start ,cmd : which git
+[2021-01-23 10:48:04] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /bin/git
+[2021-01-23 10:48:04] [INFO]  execute cmd  start ,cmd : which openssl
+[2021-01-23 10:48:04] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /bin/openssl
+[2021-01-23 10:48:04] [INFO]  execute cmd  start ,cmd : which curl
+[2021-01-23 10:48:04] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /bin/curl
+[2021-01-23 10:48:04] [INFO]  execute cmd  start ,cmd : which wget
+[2021-01-23 10:48:04] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /bin/wget
+[2021-01-23 10:48:04] [INFO]  execute cmd  start ,cmd : which nginx
+[2021-01-23 10:48:04] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2021-01-23 10:48:04] [INFO]  execute cmd  start ,cmd : java -version
+[2021-01-23 10:48:04] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: openjdk version "11.0.9.1" 2020-11-04
+OpenJDK Runtime Environment (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04)
+OpenJDK 64-Bit Server VM (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+[2021-01-23 10:48:04] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2021-01-23 10:48:04] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /lib/jvm/java-11-openjdk-amd64
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:04] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:04] [INFO]  execute cmd  start ,cmd : cp -f nodetemp nodeconf
+[2021-01-23 10:48:04] [INFO]  execute cmd  end ,cmd : cp -f nodetemp nodeconf,status :0 , output: 
+[2021-01-23 10:48:04] [INFO]  execute cmd  start ,cmd : sed -i "s/nodeCounts/2/g" nodeconf
+[2021-01-23 10:48:04] [INFO]  execute cmd  end ,cmd : sed -i "s/nodeCounts/2/g" nodeconf,status :0 , output: 
+[2021-01-23 10:48:04] [INFO]  execute cmd  start ,cmd : dos2unix nodeconf
+[2021-01-23 10:48:04] [INFO]  execute cmd  end ,cmd : dos2unix nodeconf,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 10:48:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:10] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 10:48:10] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 10:48:10] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 10:48:10] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 10:48:12] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:12] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:12] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:13] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:15] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:15] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:15] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:15] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:15] [INFO]  execute cmd  start ,cmd : cp -f /home/wyt/webase-deploy/comm/temp.conf /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:48:15] [INFO]  execute cmd  end ,cmd : cp -f /home/wyt/webase-deploy/comm/temp.conf /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:48:15] [INFO]  execute cmd  start ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log
+[2021-01-23 10:48:15] [INFO]  execute cmd  end ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log,status :0 , output: 
+[2021-01-23 10:48:15] [INFO]  execute cmd  start ,cmd : sed -i "s/127.0.0.1/127.0.0.1/g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:48:15] [INFO]  execute cmd  end ,cmd : sed -i "s/127.0.0.1/127.0.0.1/g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:48:15] [INFO]  execute cmd  start ,cmd : sed -i "s/5000/5000/g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:48:15] [INFO]  execute cmd  end ,cmd : sed -i "s/5000/5000/g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:48:15] [INFO]  execute cmd  start ,cmd : sed -i "s/server 127.0.0.1:5001/server 127.0.0.1:5001/g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:48:15] [INFO]  execute cmd  end ,cmd : sed -i "s/server 127.0.0.1:5001/server 127.0.0.1:5001/g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:48:15] [INFO]  execute cmd  start ,cmd : sed -i "s:log_path:/home/wyt/webase-deploy/webase-web/log:g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:48:15] [INFO]  execute cmd  end ,cmd : sed -i "s:log_path:/home/wyt/webase-deploy/webase-web/log:g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:48:15] [INFO]  execute cmd  start ,cmd : sed -i "s:web_page_url:/home/wyt/webase-deploy/webase-web:g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:48:15] [INFO]  execute cmd  end ,cmd : sed -i "s:web_page_url:/home/wyt/webase-deploy/webase-web:g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:48:15] [INFO]  execute cmd  start ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log
+[2021-01-23 10:48:15] [INFO]  execute cmd  end ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log,status :0 , output: 
+[2021-01-23 10:48:15] [INFO]  execute cmd  start ,cmd : which nginx
+[2021-01-23 10:48:15] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2021-01-23 10:48:15] [INFO]  execute cmd  start ,cmd : sudo /usr/sbin/nginx -c /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 10:48:15] [INFO]  execute cmd  end ,cmd : sudo /usr/sbin/nginx -c /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 10:48:15] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:15] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:15] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:15] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:15] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:17] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:18] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:18] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:18] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:18] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:18] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:18] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:18] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:18] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:18] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:18] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:18] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:18] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:18] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:18] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:18] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:18] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:18] [INFO]  execute cmd  start ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/script/temp.sh /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2021-01-23 10:48:18] [INFO]  execute cmd  end ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/script/temp.sh /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2021-01-23 10:48:18] [INFO]  execute cmd  start ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/conf/temp.yml /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:48:18] [INFO]  execute cmd  end ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/conf/temp.yml /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:48:18] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2021-01-23 10:48:18] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2021-01-23 10:48:18] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2021-01-23 10:48:18] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2021-01-23 10:48:18] [INFO]  execute cmd  start ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2021-01-23 10:48:18] [INFO]  execute cmd  end ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2021-01-23 10:48:18] [INFO]  execute cmd  start ,cmd : sed -i "s/5001/5001/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:48:18] [INFO]  execute cmd  end ,cmd : sed -i "s/5001/5001/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:48:18] [INFO]  execute cmd  start ,cmd : sed -i "s/127.0.0.1/localhost/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:48:18] [INFO]  execute cmd  end ,cmd : sed -i "s/127.0.0.1/localhost/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:48:18] [INFO]  execute cmd  start ,cmd : sed -i "s/3306/3306/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:48:18] [INFO]  execute cmd  end ,cmd : sed -i "s/3306/3306/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:48:18] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:48:18] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:48:18] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:48:18] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:48:18] [INFO]  execute cmd  start ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:48:19] [INFO]  execute cmd  end ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:48:19] [INFO]  execute cmd  start ,cmd : sed -i "s%encryptType: 0%encryptType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:48:19] [INFO]  execute cmd  end ,cmd : sed -i "s%encryptType: 0%encryptType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:48:19] [INFO]  execute cmd  start ,cmd : sed -i "s%deployType:.*$%deployType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 10:48:19] [INFO]  execute cmd  end ,cmd : sed -i "s%deployType:.*$%deployType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 10:48:19] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:19] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:19] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:19] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:19] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:19] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:19] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:19] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:19] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 10:48:19] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 10:48:19] [INFO]  mysql except Traceback (most recent call last):
+  File "/home/wyt/webase-deploy/comm/mysql.py", line 53, in dbConnect
+    conn = mdb.connect(host=mysql_ip, port=mysql_port, user=mysql_user, passwd=mysql_password, charset='utf8')
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 327, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 588, in connect
+    self._request_authentication()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 853, in _request_authentication
+    auth_packet = self._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 676, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 223, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1698, "Access denied for user 'dbUsername'@'localhost'")
+
+[2021-01-23 16:32:32] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:32:32] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:32:32] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:32:32] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:32:32] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:32:32] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:32:32] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 16:32:32] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 16:32:32] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 16:32:32] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 16:32:54] [INFO]  execute cmd  start ,cmd : sudo rm -rf /run/nginx-webase-web.pid
+[2021-01-23 16:32:54] [INFO]  execute cmd  end ,cmd : sudo rm -rf /run/nginx-webase-web.pid,status :0 , output: 
+[2021-01-23 16:32:54] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2021-01-23 16:32:54] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2021-01-23 16:32:54] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 16:32:54] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 16:32:54] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 16:32:54] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 16:32:54] [INFO]  execute cmd  start ,cmd : bash stop.sh
+[2021-01-23 16:32:54] [INFO]  execute cmd  end ,cmd : bash stop.sh,status :0 , output: ===============================================================================================
+Server com.webank.webase.node.mgr.Application Port 5001 is not running
+===============================================================================================
+[2021-01-23 16:33:09] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:09] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:09] [INFO]  execute cmd  start ,cmd : which git
+[2021-01-23 16:33:09] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /bin/git
+[2021-01-23 16:33:09] [INFO]  execute cmd  start ,cmd : which openssl
+[2021-01-23 16:33:09] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /bin/openssl
+[2021-01-23 16:33:09] [INFO]  execute cmd  start ,cmd : which curl
+[2021-01-23 16:33:09] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /bin/curl
+[2021-01-23 16:33:09] [INFO]  execute cmd  start ,cmd : which wget
+[2021-01-23 16:33:09] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /bin/wget
+[2021-01-23 16:33:09] [INFO]  execute cmd  start ,cmd : which nginx
+[2021-01-23 16:33:09] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2021-01-23 16:33:09] [INFO]  execute cmd  start ,cmd : java -version
+[2021-01-23 16:33:10] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: openjdk version "11.0.9.1" 2020-11-04
+OpenJDK Runtime Environment (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04)
+OpenJDK 64-Bit Server VM (build 11.0.9.1+1-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+[2021-01-23 16:33:10] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2021-01-23 16:33:10] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /lib/jvm/java-11-openjdk-amd64
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:10] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:10] [INFO]  execute cmd  start ,cmd : cp -f nodetemp nodeconf
+[2021-01-23 16:33:10] [INFO]  execute cmd  end ,cmd : cp -f nodetemp nodeconf,status :0 , output: 
+[2021-01-23 16:33:10] [INFO]  execute cmd  start ,cmd : sed -i "s/nodeCounts/2/g" nodeconf
+[2021-01-23 16:33:10] [INFO]  execute cmd  end ,cmd : sed -i "s/nodeCounts/2/g" nodeconf,status :0 , output: 
+[2021-01-23 16:33:10] [INFO]  execute cmd  start ,cmd : dos2unix nodeconf
+[2021-01-23 16:33:10] [INFO]  execute cmd  end ,cmd : dos2unix nodeconf,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 16:33:15] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:15] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:15] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:15] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:15] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 16:33:15] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 16:33:15] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 16:33:15] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 16:33:17] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:17] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:17] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:18] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:22] [INFO]  execute cmd  start ,cmd : cp -f /home/wyt/webase-deploy/comm/temp.conf /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 16:33:22] [INFO]  execute cmd  end ,cmd : cp -f /home/wyt/webase-deploy/comm/temp.conf /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 16:33:22] [INFO]  execute cmd  start ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log
+[2021-01-23 16:33:22] [INFO]  execute cmd  end ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log,status :0 , output: 
+[2021-01-23 16:33:22] [INFO]  execute cmd  start ,cmd : sed -i "s/127.0.0.1/127.0.0.1/g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 16:33:22] [INFO]  execute cmd  end ,cmd : sed -i "s/127.0.0.1/127.0.0.1/g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 16:33:22] [INFO]  execute cmd  start ,cmd : sed -i "s/5000/5000/g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 16:33:22] [INFO]  execute cmd  end ,cmd : sed -i "s/5000/5000/g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 16:33:22] [INFO]  execute cmd  start ,cmd : sed -i "s/server 127.0.0.1:5001/server 127.0.0.1:5001/g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 16:33:22] [INFO]  execute cmd  end ,cmd : sed -i "s/server 127.0.0.1:5001/server 127.0.0.1:5001/g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 16:33:22] [INFO]  execute cmd  start ,cmd : sed -i "s:log_path:/home/wyt/webase-deploy/webase-web/log:g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 16:33:22] [INFO]  execute cmd  end ,cmd : sed -i "s:log_path:/home/wyt/webase-deploy/webase-web/log:g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 16:33:22] [INFO]  execute cmd  start ,cmd : sed -i "s:web_page_url:/home/wyt/webase-deploy/webase-web:g" /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 16:33:22] [INFO]  execute cmd  end ,cmd : sed -i "s:web_page_url:/home/wyt/webase-deploy/webase-web:g" /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 16:33:22] [INFO]  execute cmd  start ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log
+[2021-01-23 16:33:22] [INFO]  execute cmd  end ,cmd : mkdir -p /home/wyt/webase-deploy/webase-web/log,status :0 , output: 
+[2021-01-23 16:33:22] [INFO]  execute cmd  start ,cmd : which nginx
+[2021-01-23 16:33:22] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/sbin/nginx
+[2021-01-23 16:33:22] [INFO]  execute cmd  start ,cmd : sudo /usr/sbin/nginx -c /home/wyt/webase-deploy/comm/nginx.conf
+[2021-01-23 16:33:22] [INFO]  execute cmd  end ,cmd : sudo /usr/sbin/nginx -c /home/wyt/webase-deploy/comm/nginx.conf,status :0 , output: 
+[2021-01-23 16:33:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:22] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:22] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:23] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/script/temp.sh /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/script/temp.sh /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/conf/temp.yml /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : cp -f /home/wyt/webase-deploy/webase-node-mgr/conf/temp.yml /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/script/webase.sh,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : sed -i "s/5001/5001/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : sed -i "s/5001/5001/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : sed -i "s/127.0.0.1/localhost/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : sed -i "s/127.0.0.1/localhost/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : sed -i "s/3306/3306/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : sed -i "s/3306/3306/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultAccount/dbUsername/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : sed -i "s/defaultPassword/dbPassword/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : sed -i "s/webasenodemanager/webasenodemanager/g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : sed -i "s%encryptType: 0%encryptType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : sed -i "s%encryptType: 0%encryptType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]  execute cmd  start ,cmd : sed -i "s%deployType:.*$%deployType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml
+[2021-01-23 16:33:24] [INFO]  execute cmd  end ,cmd : sed -i "s%deployType:.*$%deployType: 0%g" /home/wyt/webase-deploy/webase-node-mgr/conf/application.yml,status :0 , output: 
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:33:24] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:33:24] [INFO]  mysql except Traceback (most recent call last):
+  File "/home/wyt/webase-deploy/comm/mysql.py", line 53, in dbConnect
+    conn = mdb.connect(host=mysql_ip, port=mysql_port, user=mysql_user, passwd=mysql_password, charset='utf8')
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 327, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 588, in connect
+    self._request_authentication()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 853, in _request_authentication
+    auth_packet = self._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 676, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 223, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1698, "Access denied for user 'dbUsername'@'localhost'")
+
+[2021-01-23 16:34:26] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:34:26] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:34:26] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:34:26] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:34:26] [INFO]   os.getcwd() is /home/wyt/webase-deploy
+[2021-01-23 16:34:26] [INFO]  commProperties is /home/wyt/webase-deploy/common.properties 
+[2021-01-23 16:34:26] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 16:34:26] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 16:34:26] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 16:34:26] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 16:34:30] [INFO]  execute cmd  start ,cmd : sudo rm -rf /run/nginx-webase-web.pid
+[2021-01-23 16:34:30] [INFO]  execute cmd  end ,cmd : sudo rm -rf /run/nginx-webase-web.pid,status :0 , output: 
+[2021-01-23 16:34:30] [INFO]  execute cmd  start ,cmd : source /etc/profile
+[2021-01-23 16:34:31] [INFO]  execute cmd  end ,cmd : source /etc/profile,status :127 , output: /bin/sh: 1: source: not found
+[2021-01-23 16:34:31] [INFO]  execute cmd  start ,cmd : chmod u+x *.sh
+[2021-01-23 16:34:31] [INFO]  execute cmd  end ,cmd : chmod u+x *.sh,status :0 , output: 
+[2021-01-23 16:34:31] [INFO]  execute cmd  start ,cmd : dos2unix *.sh
+[2021-01-23 16:34:31] [INFO]  execute cmd  end ,cmd : dos2unix *.sh,status :127 , output: /bin/sh: 1: dos2unix: not found
+[2021-01-23 16:34:31] [INFO]  execute cmd  start ,cmd : bash stop.sh
+[2021-01-23 16:34:31] [INFO]  execute cmd  end ,cmd : bash stop.sh,status :0 , output: ===============================================================================================
+Server com.webank.webase.node.mgr.Application Port 5001 is not running
+===============================================================================================
